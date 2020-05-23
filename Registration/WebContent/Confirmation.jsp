@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Insert title here</title>
+<title>Confirmation</title>
 
 <style>
 
