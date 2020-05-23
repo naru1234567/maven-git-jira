@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Insert title here</title>
+<title>Duplicate</title>
 
 <style>
 table tbody tr td {
